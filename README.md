@@ -13,4 +13,4 @@ License:
 I made the application Open Source, for everyone who wants to use and debug it. I have included the project and also the binary (.exe) of the application. If you want to contact me about the application, please do! You can contact me via: buizenbeernd@live.nl.
 
 Disclaimer:	
-I'm not a Microsoft developer NOR is this an Microsoft product. I just do what Microsoft won't do. Microsoft has rolled out an update for Windows 10 that will users of it in the possibility to add some registry keys to Windows Registry for bypassing the Windows 11 Setup checks. They could also made a simple automated application like i did for the job... Well Microsoft, if you don't do it, i do!
+I'm not a Microsoft developer NOR is this an Microsoft product. I just do what Microsoft won't do. Microsoft has rolled out an update for Windows 10 that will users of it in the possibility to add some registry keys to Windows Registry for bypassing the Windows 11 Setup checks. They could also made a simple automated application like i did for the job... Well Microsoft, if you don't do it, I will!
